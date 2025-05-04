@@ -1,0 +1,13 @@
+# Site settings
+title: "Distribution Software Suite"
+email: "distribution-suite@nrel.gov"
+description: "" # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+slack_channel: "NREL-Distribution-Software-Suite"
+twitter_username: "NREL"
+github_username: "NREL-Distribution-Suites"
+
+# Build settings
+markdown: kramdown
