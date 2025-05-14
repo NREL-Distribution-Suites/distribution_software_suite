@@ -1,6 +1,6 @@
 # Site settings
 title: "Distribution Software Suite"
-email: "distribution-suite@nrel.gov"
+email: "aadil.latif@nrel.gov"
 description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
